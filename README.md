@@ -1,6 +1,6 @@
 # Spam-Filter
 This is a project that filters spam, it was a FCC project.
-Github Pages website for this project: https://oia20.github.io/browserRPG/
+https://oia20.github.io/Spam-Filter/
 
 What it filters:
 - 'please help' and 'assist me'
